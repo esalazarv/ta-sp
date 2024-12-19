@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strictPropertyInitialization": false
+  },
+  "importMap": "./supabase/functions/import_map.json",
+  "lint": {
+    "rules": {
+      "exclude": ["no-empty-interface"]
+    }
+  }
+}
